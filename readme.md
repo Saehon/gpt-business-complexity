@@ -1,12 +1,12 @@
 ## Companion repository for:
 
-*Bernard et al, (2026). Using GPT to measure business complexity, The Accounting Review, Forthcoming.*
+*Bernard et al., (2026). Using GPT to measure business complexity, The Accounting Review, Forthcoming.*
 
-Paper link: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4480309) - [The Accounting Review](#)
+Paper link: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4480309) - [The Accounting Review](#tbd)
 
 ## Table of contents
 
-- **1. Online Appendix**
+- **1. Appendix**
     - [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4480309)
 - **2. Models**
     - Available on [Hugging Face](https://huggingface.co/Ties/gpt-business-complexity)
@@ -17,7 +17,7 @@ Paper link: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4480309) 
 ## Dataset descriptions
 
 **Notes**
-- See the paper and online appendix for full details on dataset construction and variable definitions.
+- See the paper and its appendix for full details on dataset construction and variable definitions.
 
 **Dataset 1: complexity at the filing level**
 
